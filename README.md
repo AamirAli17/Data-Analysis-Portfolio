@@ -37,4 +37,5 @@ Created report identifying attrition drivers for management
 
 📁 Each project folder includes Jupyter notebooks, SQL scripts, and interactive dashboard files.
 
-
+# Education
+Bachelor of Technology in Computer Science & Engineering from Punjab Technical University.
